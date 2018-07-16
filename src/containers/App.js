@@ -37,6 +37,7 @@ class App extends Component {
 					<Scroll>
 						<CardList robots={filteredRobots} />
 					</Scroll>
+					<p>Robots lovingly delivered by Robohash.org</p>
 				</div>
 			);
 	}
